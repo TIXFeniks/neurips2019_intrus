@@ -1,7 +1,7 @@
 # INTRUS
 Supplementary code for NeurIPS submission "Sequence Modeling with Unconstrained Generation Order". This code trains and applies a machine translation model that can generate sequences in arbitrary order
 
-![orders](https://i.imgur.com/Bvxeqv2.png)
+![orders](./resources/order_examples.png)
 
 # What do i need to run it?
 * A machine with some CPU (preferably 4+) and at least one GPU
