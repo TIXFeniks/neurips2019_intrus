@@ -1,5 +1,5 @@
 # INTRUS
-Anonymized supplementary code for NeurIPS submission. This code trains and applies a machine translation model that can generate sequences in arbitrary order
+Supplementary code for NeurIPS submission "Sequence Modeling with Unconstrained Generation Order". This code trains and applies a machine translation model that can generate sequences in arbitrary order
 
 ![orders](https://i.imgur.com/Bvxeqv2.png)
 
